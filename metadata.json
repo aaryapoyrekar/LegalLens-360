@@ -1,0 +1,5 @@
+{
+  "name": "LegalLens 360",
+  "description": "Advanced AI contract analysis engine using Gemini 3 Pro to audit risks, extract obligations, and simplify legal language.",
+  "requestFramePermissions": []
+}
